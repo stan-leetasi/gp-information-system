@@ -1,7 +1,7 @@
 # General practitioner's office information system
 ## Overview
 
-This repository contains an Oracle SQL database of an information system (IS) of a general practitioner's office. The main purpose of this system is to maintain a database of patients and their conducted or planned examinations.
+This Oracle SQL database is an information system for a general practitioner's office. The main purpose of this system is to maintain a database of patients and their conducted or planned examinations.
 
 ## Features
 
@@ -24,7 +24,6 @@ Doctors handle both planned and acute cases, differentiated in the database by a
 ### Invoice Management
 Each examination can have at most one invoice to document the financial expenses incurred during the examination.
 
-### Diagrams
 ![ER diagram](doc/er.png)
 ![Use-case diagram](doc/use_case.png)
 
